@@ -1,0 +1,23 @@
+img {
+  max-height: 25vh;
+}
+
+button {
+  background: blue;
+  color: white;
+}
+
+h1 {
+  margin: 8pt;
+  background: whitesmoke;
+}
+
+p {
+  margin: 8pt;
+  font-size: 90%;
+  /* background: whitesmoke; */
+}
+
+div {
+  background: seagreen;
+}
